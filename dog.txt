@@ -1,2 +1,6 @@
 This is my dog, his name is Marley!
+<<<<<<< HEAD
 Cześć jakim językiem mówisz?
+=======
+my dog is Karol :)
+>>>>>>> ae303e2d36f363dc72ad28b4a683ade62004ec89
