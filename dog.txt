@@ -1,6 +1,14 @@
 This is my dog, his name is Marley!
 <<<<<<< HEAD
+my dog is Karol, bark bark :)
+=======
+<<<<<<< HEAD
 Cześć jakim językiem mówisz?
 =======
 my dog is Karol :)
 >>>>>>> ae303e2d36f363dc72ad28b4a683ade62004ec89
+<<<<<<< HEAD
+>>>>>>> ec3da12e307183f985cc3f973f7fc2513d9d9964
+=======
+My dog has white fur.
+>>>>>>> f1c4ba78e15fa512facb2a8fa284510dfacd409b
