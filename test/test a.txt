@@ -1,6 +1,6 @@
-1. obrazek
-2. plądrowanie
-3. mysz
+1. okno
+2. podłoga
+3. mebel
 4. głód
 5. dog
 6. urwisko
@@ -8,9 +8,9 @@
 8. pompatyczność
 9. rycerz
 10. rynna
-11. przywidywać
-12. szybki
-13. niegęsty
+11. poczta
+12. szczotka
+13. noga
 14. wąski
 15. zima
 16. irytacja
